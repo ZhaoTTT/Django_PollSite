@@ -1,0 +1,2 @@
+admin/super username:admin
+password:admin123456
